@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d475dbf4f6f40764d8cbad3d11e02fd6
+timeCreated: 1496113848
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 200
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Budidaya
+  fontNames:
+  - Budidaya
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b4a37a3a8d0ae254f96e19f89810cf98, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
